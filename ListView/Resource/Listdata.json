@@ -1,0 +1,20 @@
+{
+  "data":[
+     {
+       "name": "Shiro",
+       "id": "1"
+     },
+     {
+       "name": "Lina",
+       "id": "2"
+     },
+     {
+        "name": "Wakaba",
+        "id": "3"
+     },
+     {
+        "name": "Rin",
+        "id": "4"
+     }
+  ]
+}
